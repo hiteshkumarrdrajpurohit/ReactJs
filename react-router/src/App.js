@@ -7,10 +7,8 @@ import Footer from './components/footer/Footer';
 import Home from './components/Home/Home';
 function App() {
   return (
-   <>
-  
-
-   </>
+   
+   <h1>Hitesh</h1>
   );
 }
 

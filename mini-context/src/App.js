@@ -6,7 +6,7 @@ function App() {
   return (
     <UserContextProvider>
     <div  style={{backgroundColor:"gray"}}>
-    
+    <h1></h1>
       <LogIn/>
       <Profile/>
     </div>
